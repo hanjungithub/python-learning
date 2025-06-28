@@ -67,6 +67,7 @@ def head(x, y):
     circle(60, -95)
     setheading(161)
     circle(-300, 15)
+
     penup()
     goto(-100, 100)
     pendown()
