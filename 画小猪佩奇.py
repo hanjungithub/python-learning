@@ -4,6 +4,8 @@
 from turtle import *
 
 
+
+
 def nose(x,y):
     """画鼻子"""
     penup()
